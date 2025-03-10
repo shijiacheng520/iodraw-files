@@ -176,7 +176,10 @@
           <mxGeometry x="317" y="487" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-67" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="443" y="321" width="60" height="30" as="geometry" />
+          <mxGeometry x="445" y="328" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_pulshWO_Sml_reMsOBV-68" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="388" y="386" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
