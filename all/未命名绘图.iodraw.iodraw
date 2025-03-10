@@ -59,10 +59,10 @@
           <mxGeometry x="317" y="695" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-23" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;执行去抖动处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="516" y="785.5" width="102" height="29" as="geometry" />
+          <mxGeometry x="512" y="785.5" width="102" height="29" as="geometry" />
         </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-24" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;flag=0;&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;暂停跑马灯&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="516.5" y="837" width="100" height="41" as="geometry" />
+          <mxGeometry x="516.5" y="837" width="100.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-25" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;输出&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: initial;&quot;&gt;P2=j;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="317" y="449" width="120" height="30" as="geometry" />
