@@ -184,8 +184,11 @@
         <mxCell id="_pulshWO_Sml_reMsOBV-69" value="dir==1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="443" y="593" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_pulshWO_Sml_reMsOBV-70" value="dir==1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_pulshWO_Sml_reMsOBV-70" value="dir==0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="254" y="593" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_pulshWO_Sml_reMsOBV-71" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="443" y="674" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
