@@ -11,7 +11,7 @@
           <mxGeometry x="319" y="91" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-3" value="主循环开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="317" y="182" width="120" height="40" as="geometry" />
+          <mxGeometry x="317" y="192" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_pulshWO_Sml_reMsOBV-3" target="_pulshWO_Sml_reMsOBV-3">
           <mxGeometry relative="1" as="geometry" />
