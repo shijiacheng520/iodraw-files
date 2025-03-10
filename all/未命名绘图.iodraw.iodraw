@@ -47,7 +47,10 @@
           <mxGeometry x="516" y="565.5" width="84" height="29" as="geometry" />
         </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="512" y="646.5" width="84" height="29" as="geometry" />
+          <mxGeometry x="170" y="646.5" width="84" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="_pulshWO_Sml_reMsOBV-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="565.5" width="84" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
