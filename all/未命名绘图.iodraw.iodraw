@@ -188,10 +188,10 @@
           <mxGeometry x="254" y="593" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-71" value="j==0xfe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="445" y="678.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="445" y="676" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_pulshWO_Sml_reMsOBV-72" value="j==0xfe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="254" y="678.5" width="60" height="30" as="geometry" />
+        <mxCell id="_pulshWO_Sml_reMsOBV-72" value="j==0x7f" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="256" y="676" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
