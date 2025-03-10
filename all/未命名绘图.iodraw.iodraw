@@ -193,6 +193,9 @@
         <mxCell id="_pulshWO_Sml_reMsOBV-72" value="j==0x7f" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="256" y="676" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_pulshWO_Sml_reMsOBV-73" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="297" y="883" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
