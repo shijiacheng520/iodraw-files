@@ -10,19 +10,11 @@
         <mxCell id="_pulshWO_Sml_reMsOBV-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="337" y="30" width="84" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_pulshWO_Sml_reMsOBV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_pulshWO_Sml_reMsOBV-2" target="_pulshWO_Sml_reMsOBV-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_pulshWO_Sml_reMsOBV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_pulshWO_Sml_reMsOBV-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="379" y="173.9523809523809" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-2" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;初始化变量：j=0xfe;&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;flag=0;&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;dir=1;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="319" y="91" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-3" value="主循环开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="317" y="185" width="120" height="30" as="geometry" />
+          <mxGeometry x="319" y="185" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_pulshWO_Sml_reMsOBV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_pulshWO_Sml_reMsOBV-3" target="_pulshWO_Sml_reMsOBV-3">
           <mxGeometry relative="1" as="geometry" />
